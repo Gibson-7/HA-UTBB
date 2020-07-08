@@ -1,1 +1,1 @@
-# HackAdemy-UTBB
+# HA-UTBB
